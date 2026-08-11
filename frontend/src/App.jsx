@@ -17,7 +17,7 @@ import "./App.css";
 
 import GraphExplorer from "./GraphExplorer";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://jobgraph.onrender.com";
 
 function App() {
   const [candidates, setCandidates] = useState([]);
