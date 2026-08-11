@@ -34,7 +34,7 @@ app.add_middleware(
         "http://127.0.0.1:5173",
 
         # Vercel production frontend
-        "https://jobgraph.vercel.app"
+        "https://job-graph-navy.vercel.app/"
     ],
 
     allow_credentials=True,
